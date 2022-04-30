@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me
   - Email: progurpreetsingh@gmail.com
+  - Twitter [@Gurpreet_256](https://twitter.com/Gurpreet_256)
   - Discord: Gurpreet#2784
 
 <!---
