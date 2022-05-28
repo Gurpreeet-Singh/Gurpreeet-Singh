@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gurpreet-singh.netlify.app](https://gurpreet-singh.netlify.app)
 
-- 💬 Ask me about **React.js, Node.js**
+- 💬 Ask me about **React.js, Node.js**, **Express**
 
 - 📫 How to reach me **progurpreetsingh@gmail.com**
 
