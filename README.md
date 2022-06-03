@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **progurpreetsingh@gmail.com**
 
-- ⚡ Hobbies **I play chess**
+- ⚡ Hobbies **I play chess. [Chess.com](https://www.chess.com/member/gurpreetsingh10)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
