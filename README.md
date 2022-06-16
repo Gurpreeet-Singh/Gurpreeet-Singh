@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate software engineer from India</h3>
 
 - 🌱 I’m currently learning **Next.js, Web 3.0**
 
